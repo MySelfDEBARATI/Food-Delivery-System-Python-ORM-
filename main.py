@@ -982,22 +982,3 @@ while True:
         print("Please Enter Register or Login.")
 
 # Closed
-
-
-
-
-
-# admin panel 
-# session = session_Local()
-# admin = Customers(
-#     username="admin",
-#     email="admin@gmail.com",
-#     phone_no=8420639416,
-#     address="Office",
-#     password_hash="admin123",
-#     role="admin"
-# )
-# session.add(admin)
-# session.commit()
-# print("Admin Created Successfully")
-# session.close()
